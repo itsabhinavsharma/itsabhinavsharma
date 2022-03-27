@@ -49,10 +49,14 @@
 </pre>
 
  <br>
-
-[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-abhinav23&show_icons=true&theme=onedark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-abhinav23&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-abhinav23&show_icons=true&theme=onedark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  <br>
+ 
+> Thank you for visiting my profile. 
+
 
  
 
