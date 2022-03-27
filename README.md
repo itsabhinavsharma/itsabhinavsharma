@@ -1,6 +1,6 @@
 <br>
 
-<img src="/abhinav-github-header.png">
+<img src="/abhinav-header.png">
  
  <br>
  
