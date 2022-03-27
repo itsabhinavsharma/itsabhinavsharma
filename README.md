@@ -32,5 +32,29 @@
  
  <br>
  
- <p>I love to meet people and talk about various aspects of technology and where we can improve the solutions that we have today. Aside from programming my interest also lies in playing guitar. If you wanna connect, reach out to any social media mentioned above or you can also reach me through mail.</p>
+ <p>I love to meet people and talk about various aspects of technology and where we can improve the solutions that we have today. Aside from programming my interest also lies in playing guitar. If you wanna connect, reach out to any social media mentioned above or you can also reach me through mail. 👇</p>
  
+ <br>
+ 
+ >  <img align="left" width="17px" src="gmail-icon.png">connect@abhinavsharmaa.com
+ 
+ <br>
+ 
+  <h4><i>What I am upto these days?  &nbsp; </i>😬</h4>
+<pre>
+🌱 &nbsp; ⇢  &nbsp; I am learning android development in Kotlin.
+💻 &nbsp; ⇢  &nbsp; I am focusing on improving my problem solving skills.
+🤯 &nbsp; ⇢  &nbsp; Functional programming is so confusing 🧠.
+😂 &nbsp; ⇢  &nbsp; <i>Fun Fact</i>: I made this account without knowing what github really is.
+</pre>
+
+ <br>
+
+[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-abhinav23&show_icons=true&theme=onedark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-abhinav23&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-abhinav23&layout=compact&theme=onedark&width=600px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+ 
+
