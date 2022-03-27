@@ -20,11 +20,9 @@
  
 </a>
  
-<br>
+<br><br>
  
-<img align="right" width=70px src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif">
- 
-<br>
+
  
 > Welcome to my profile
  
