@@ -32,7 +32,7 @@
  
  <br>
  
- <p>I love to meet people and talk about various aspects of technology and where we can improve the solutions that we have today. Aside from programming my interest also lies in playing guitar. If you wanna connect, reach out to any social media mentioned above or you can also reach me through mail. 👇</p>
+ <p>I love to meet people and talk about various aspects of technology and what solutions we can improve that we have today. Aside from programming my interest also lies in playing guitar. If you wanna connect, reach out to any social media mentioned above or you can also reach me through mail. 👇</p>
  
  <br>
  
