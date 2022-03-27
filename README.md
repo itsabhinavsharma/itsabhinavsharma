@@ -50,10 +50,8 @@
 
  <br>
 
-[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-abhinav23&show_icons=true&theme=onedark&count_private=true&hide_border=true&width=400px)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-abhinav23&theme=onedark&hide_border=true&width=400px)](https://git.io/streak-stats)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-abhinav23&layout=compact&theme=onedark&width=600px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-abhinav23&show_icons=true&theme=onedark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-abhinav23&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 
  
