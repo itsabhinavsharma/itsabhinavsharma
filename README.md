@@ -28,7 +28,7 @@
  
 #### <i>About Me</i>
  
- <p>I am an android developer from India. My first brush with computers and programming was back when I was in high school. My first language was C and after that I fell in love with programming. I like to take on challenges that make me question my learning and thus every new challenge made me a better developer.</p>
+ <p>I am a Dotnet and android developer from India. My first brush with computers and programming was back when I was in high school. My first language was C and after that I fell in love with programming. I like to take on challenges that make me question my learning and thus every new challenge made me a better developer.</p>
  
  <br>
  
